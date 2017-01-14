@@ -37,5 +37,5 @@ void HelpCMD::execute(Ui::MainWindow *mainWindow){
                          " - man command<br>"
                          " - clear<br>"
                          " - exit<br>"
-                         " - ftp URL username(opt) password(opt) port(opt)</p><br>","DeepSkyBlue");
+                         " - ftp user:pass@ipadd/filepath sendFilePath</p><br>","DeepSkyBlue");
 }
